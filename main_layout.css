@@ -54,6 +54,7 @@ body > footer {
 nav ul li {
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	font-size: 0.8em;
+	padding: 0em 2em 0em 2em;
 }
 
 nav ul li a {
