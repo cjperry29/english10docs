@@ -1,45 +1,5 @@
 @charset "utf-8";
 
-/* HTML and Body Styles */
 html {
-   background-color: hsl(0, 0%, 100%);
+	background-color: rgb(164, 164, 230)
 }
-
-body {
-   color: rgb(91, 91, 91);
-   background-color: ivory;
-}
-
-
-/* Heading Styles */
-h1 {
-   color: white;
-   background-color: rgb(222, 128, 60);
-}
-
-h2 {
-   color: white;
-   background-color: rgb(235, 177, 131)
-}
-
-
-
-/* Aside and Blockquote Styles */
-
-
-
-
-
-/* Navigation Styles */	
-
-
-
-
-
-/* List Styles */
-
-
-
-
-
-/* Footer Styles */
